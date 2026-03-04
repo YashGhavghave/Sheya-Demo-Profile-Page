@@ -1,0 +1,13 @@
+<svg width="720" height="500" viewBox="0 0 720 500" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="720" height="500" rx="22" fill="#F8FBFF"/>
+  <rect x="72" y="68" width="576" height="364" rx="24" fill="white" stroke="#D2E1F4" stroke-width="3"/>
+  <path d="M158 260C158 219 191 186 232 186H488C529 186 562 219 562 260V276C562 317 529 350 488 350H232C191 350 158 317 158 276V260Z" fill="#E5F0FD" stroke="#A9C2E2" stroke-width="3"/>
+  <path d="M182 264C182 238 203 216 229 216H491C517 216 538 238 538 264V272C538 298 517 320 491 320H229C203 320 182 298 182 272V264Z" fill="#F7FBFF" stroke="#B8CCE8"/>
+  <circle cx="226" cy="268" r="6" fill="#8AAAD2"/>
+  <circle cx="274" cy="268" r="6" fill="#8AAAD2"/>
+  <circle cx="322" cy="268" r="6" fill="#8AAAD2"/>
+  <circle cx="370" cy="268" r="6" fill="#8AAAD2"/>
+  <circle cx="418" cy="268" r="6" fill="#8AAAD2"/>
+  <circle cx="466" cy="268" r="6" fill="#8AAAD2"/>
+  <text x="360" y="112" fill="#163555" font-family="Georgia, serif" font-size="28" text-anchor="middle">Clear Aligner Concept</text>
+</svg>

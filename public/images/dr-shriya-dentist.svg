@@ -1,0 +1,29 @@
+<svg width="760" height="820" viewBox="0 0 760 820" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="760" height="820" rx="30" fill="#F4F8FD"/>
+  <rect x="74" y="72" width="612" height="676" rx="24" fill="white" stroke="#D2E0F1" stroke-width="4"/>
+
+  <circle cx="380" cy="244" r="102" fill="#FFDCC7"/>
+  <path d="M286 240C286 181 331 138 388 138C437 138 473 171 479 219C454 197 423 185 386 185C347 185 315 203 286 240Z" fill="#2B4058"/>
+  <ellipse cx="346" cy="246" rx="8" ry="10" fill="#2F3E52"/>
+  <ellipse cx="412" cy="246" rx="8" ry="10" fill="#2F3E52"/>
+  <path d="M346 290C358 303 401 303 414 290" stroke="#9C5760" stroke-width="5" stroke-linecap="round"/>
+
+  <path d="M214 516C214 438 277 374 354 374H407C484 374 547 438 547 516V660H214V516Z" fill="#EEF5FC"/>
+  <path d="M282 390H479V662H282V390Z" fill="white" stroke="#D3E2F3"/>
+  <rect x="322" y="454" width="118" height="172" rx="16" fill="#D7E6F8"/>
+  <rect x="344" y="470" width="74" height="104" rx="10" fill="#F8FBFF" stroke="#BFD2EA"/>
+  <path d="M381 492V556" stroke="#8AA9CF" stroke-width="8" stroke-linecap="round"/>
+  <path d="M349 524H413" stroke="#8AA9CF" stroke-width="8" stroke-linecap="round"/>
+
+  <rect x="120" y="510" width="150" height="120" rx="18" fill="#EAF2FB" stroke="#C8DBF1"/>
+  <path d="M160 560C160 535 180 515 205 515C230 515 250 535 250 560C250 593 225 620 205 620C185 620 160 593 160 560Z" fill="white" stroke="#9CB8DA" stroke-width="4"/>
+  <path d="M192 575C192 566 199 559 208 559C217 559 224 566 224 575C224 585 216 595 208 595C200 595 192 585 192 575Z" fill="#DDEBFA" stroke="#AFC7E3"/>
+
+  <rect x="505" y="510" width="138" height="148" rx="18" fill="#EAF2FB" stroke="#C8DBF1"/>
+  <rect x="530" y="548" width="86" height="16" rx="8" fill="#9CB8DA"/>
+  <rect x="530" y="578" width="86" height="16" rx="8" fill="#9CB8DA"/>
+  <rect x="530" y="608" width="58" height="16" rx="8" fill="#9CB8DA"/>
+
+  <rect x="178" y="110" width="404" height="42" rx="21" fill="#15314F"/>
+  <text x="380" y="138" fill="white" font-family="Segoe UI, Arial" font-size="18" text-anchor="middle">Dentist & Dental Surgeon</text>
+</svg>

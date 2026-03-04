@@ -1,0 +1,19 @@
+<svg width="900" height="620" viewBox="0 0 900 620" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="900" height="620" rx="28" fill="#F4F8FD"/>
+  <circle cx="170" cy="120" r="90" fill="#DDE9F7"/>
+  <circle cx="760" cy="490" r="120" fill="#E8F1FC"/>
+  <rect x="130" y="130" width="640" height="360" rx="26" fill="white" stroke="#C6D8EE" stroke-width="4"/>
+  <rect x="178" y="190" width="544" height="240" rx="22" fill="#F8FBFF" stroke="#D8E6F7"/>
+  <path d="M260 300C260 266 287 238 321 238H580C613 238 640 266 640 300V320C640 354 613 382 580 382H321C287 382 260 354 260 320V300Z" fill="#E3EEFB" stroke="#AFC8E6" stroke-width="3"/>
+  <rect x="290" y="272" width="32" height="76" rx="14" fill="white" stroke="#91B1D8"/>
+  <rect x="330" y="272" width="32" height="76" rx="14" fill="white" stroke="#91B1D8"/>
+  <rect x="370" y="272" width="32" height="76" rx="14" fill="white" stroke="#91B1D8"/>
+  <rect x="410" y="272" width="32" height="76" rx="14" fill="white" stroke="#91B1D8"/>
+  <rect x="450" y="272" width="32" height="76" rx="14" fill="white" stroke="#91B1D8"/>
+  <rect x="490" y="272" width="32" height="76" rx="14" fill="white" stroke="#91B1D8"/>
+  <rect x="530" y="272" width="32" height="76" rx="14" fill="white" stroke="#91B1D8"/>
+  <rect x="570" y="272" width="32" height="76" rx="14" fill="white" stroke="#91B1D8"/>
+  <path d="M290 309H602" stroke="#88A9D3" stroke-width="4" stroke-linecap="round"/>
+  <rect x="620" y="178" width="76" height="32" rx="16" fill="#15314F"/>
+  <text x="658" y="199" fill="white" font-family="Segoe UI, Arial" font-size="13" text-anchor="middle">ORTHO</text>
+</svg>

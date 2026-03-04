@@ -1,0 +1,15 @@
+<svg width="760" height="480" viewBox="0 0 760 480" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="760" height="480" rx="22" fill="#F4F8FD"/>
+  <rect x="60" y="54" width="640" height="372" rx="20" fill="white" stroke="#CFDDED" stroke-width="4"/>
+  <rect x="98" y="96" width="360" height="288" rx="14" fill="#0F243A"/>
+  <circle cx="230" cy="230" r="78" stroke="#9EC0E7" stroke-width="3"/>
+  <circle cx="230" cy="230" r="28" fill="#1F3E5F" stroke="#9EC0E7"/>
+  <path d="M229 152V308" stroke="#9EC0E7" stroke-width="2"/>
+  <path d="M152 230H308" stroke="#9EC0E7" stroke-width="2"/>
+  <rect x="486" y="112" width="180" height="24" rx="12" fill="#A3BCD9"/>
+  <rect x="486" y="154" width="142" height="24" rx="12" fill="#BDD1E8"/>
+  <rect x="486" y="206" width="180" height="24" rx="12" fill="#A3BCD9"/>
+  <rect x="486" y="248" width="142" height="24" rx="12" fill="#BDD1E8"/>
+  <rect x="486" y="300" width="180" height="24" rx="12" fill="#A3BCD9"/>
+  <text x="380" y="82" fill="#163555" font-family="Georgia, serif" font-size="24" text-anchor="middle">Orthodontic Imaging Review</text>
+</svg>
